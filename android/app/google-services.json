@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "946362171028",
+    "firebase_url": "https://flutter-firebase-9c7b4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutter-firebase-9c7b4",
+    "storage_bucket": "flutter-firebase-9c7b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946362171028:android:14a95ad2e2ad9ba055fe81",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAOHN_TduZLx-UwEhXR5XPFqMV4RonipY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
