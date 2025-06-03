@@ -36,8 +36,8 @@ This app focuses on UI/UX only — no database or persistent storage is used.
 > [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
 
 ```bash
-git clone https://github.com/your-username/todo_flutter_app.git
-cd todo_flutter_app
+git clone https://github.com/adamwassal/todo_list_flutter.git
+cd todo_list_flutter
 flutter pub get
 flutter run
 ```
